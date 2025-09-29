@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides readings, associated problems, and problem sets
   assigned for the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -9,7 +11,7 @@ title: Assignments
 uid: c12cbe83-abd2-19c7-2915-890b0ddaf4f7
 ---
 
-The problem numbers reference specific problems in Durrett, Rick. _Probability: Theory and Examples_. 4th ed. Cambridge University Press, 2010. ISBN: 9780521765398. \[Preview with {{% resource_link "ec869209-6b59-4c0d-8a0d-81141e970156" "Google Books" %}}\]  
+The problem numbers reference specific problems in Durrett, Rick. _Probability: Theory and Examples_. 4th ed. Cambridge University Press, 2010. ISBN: 9780521765398. \[Preview with [Google Books](http://books.google.com/books?id=evbGTPhuvSoC&pg=PAfrontcover)\]  
 Each assignment encourages you to write a few sentences of notes about your readings. (Hand them in, but they won't be graded. This is just to give you an excuse to take some notes.)
 
 {{< tableopen >}}

@@ -26,6 +26,7 @@
     "website": "18-175-theory-of-probability-spring-2014"
   },
   "course_title": "Theory of Probability",
+  "hide_download": true,
   "course_description": "This course covers topics such as sums of independent random variables, central limit phenomena, infinitely divisible laws, Levy processes, Brownian motion, conditioning, and martingales.\n",
   "department_numbers": [
     "18"
@@ -36,6 +37,7 @@
     "content": "66413546-3210-ac76-c41f-ca46e97c057a",
     "website": "18-175-theory-of-probability-spring-2014"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Lecture Notes"

@@ -5,6 +5,8 @@ description: This file contains the information regarding Theory of Probability,
 file: /courses/18-175-theory-of-probability-spring-2014/613251e5f4106cce74ffb84148317b0d_MIT18_175S14_ProblemSet8.pdf
 file_size: 90292
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
