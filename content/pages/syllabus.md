@@ -2,8 +2,6 @@
 content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, prerequisites, texts, and grading.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -30,7 +28,7 @@ Texts
 
 This course will follow the textbook:
 
-*   Durrett, Rick. _Probability: Theory and Examples_. 4th ed. Cambridge University Press, 2010. ISBN: 9780521765398. \[Preview with [Google Books](http://books.google.com/books?id=evbGTPhuvSoC&pg=PAfrontcover)\]
+*   Durrett, Rick. _Probability: Theory and Examples_. 4th ed. Cambridge University Press, 2010. ISBN: 9780521765398. \[Preview with {{% resource_link "50a66f76-1ac3-4b88-af6e-02ffac0a638e" "Google Books" %}}\]
 
 I use the same notation as Durrett whenever possible.
 

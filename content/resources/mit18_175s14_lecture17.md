@@ -5,8 +5,6 @@ description: This file contains the information regarding theory of probability,
 file: /courses/18-175-theory-of-probability-spring-2014/6cb1418c6d27c4f4ecb5eadd8cb9b584_MIT18_175S14_Lecture17.pdf
 file_size: 827764
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
